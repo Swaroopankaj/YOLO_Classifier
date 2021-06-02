@@ -18,10 +18,7 @@ opencv/
 convnet/
 decaf/
 submission/
-#cfg/#
 temp/
-#build/darknet/*#
-#build_*/#
 ninja/
 ninja.zip
 vcpkg_installed/
